@@ -1,0 +1,7 @@
+FROM openjdk
+ENV ARTIFACT=springboot-tournament-portal
+ENV VERSION=0.0.1-SNAPSHOT
+COPY ./target/${ARTIFACT}-${VERSION}.jar /home/
+WORKDIR /home/
+ENTRYPOINT ["java", "-jar", "./springboot-tournament-portal-0.0.1-SNAPSHOT.jar"]
+
