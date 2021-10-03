@@ -10,6 +10,8 @@ public class SpringTournamentApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringTournamentApplication.class, args);
 		System.out.println("first commit");
+		System.out.println("Thirdsssz commit");
+
 	}
 	
 	
