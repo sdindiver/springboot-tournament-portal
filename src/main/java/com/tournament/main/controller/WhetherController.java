@@ -10,6 +10,7 @@ public class WhetherController {
 	
 	static{
 		System.out.println("WhetherController has been loaded");
+		System.out.println("second commit");
 	}
 	
 	public WhetherController(){
