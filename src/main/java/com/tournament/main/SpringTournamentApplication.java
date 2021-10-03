@@ -11,6 +11,7 @@ public class SpringTournamentApplication {
 		SpringApplication.run(SpringTournamentApplication.class, args);
 		System.out.println("first commit");
 		System.out.println("Thirdsssz commit");
+		c
 
 	}
 	
