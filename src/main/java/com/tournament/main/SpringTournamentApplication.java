@@ -14,6 +14,8 @@ public class SpringTournamentApplication {
 		System.out.println("master branch commit-1");
 		System.out.println("master branch commit-2");
 		System.out.println("master-1 1-B commit");
+		System.out.println("master-1 2-B commit");
+
 
 
 	}
