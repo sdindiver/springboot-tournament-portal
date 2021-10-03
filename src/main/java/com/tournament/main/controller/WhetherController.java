@@ -11,6 +11,8 @@ public class WhetherController {
 	static{
 		System.out.println("WhetherController has been loaded");
 		System.out.println("second commit");
+		System.out.println("fourth commit");
+
 	}
 	
 	public WhetherController(){
