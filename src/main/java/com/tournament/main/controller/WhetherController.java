@@ -13,6 +13,8 @@ public class WhetherController {
 		System.out.println("second commit");
 		System.out.println("fourth commit");
 		System.out.println("branch-1 first commit");
+		System.out.println("branch-1 second commit");
+
 
 	}
 	
