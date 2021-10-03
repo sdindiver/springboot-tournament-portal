@@ -15,6 +15,8 @@ public class WhetherController {
 		System.out.println("branch-1 first commit");
 		System.out.println("branch-1 second commit");
 		System.out.println("branch-1 1-B commit");
+		System.out.println("branch-1 2-B commit");
+
 
 
 
